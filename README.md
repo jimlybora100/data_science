@@ -13,10 +13,10 @@ This repository contains assignments and projects from ECEN 360 (Computational D
 ## Requirements
 
 To run the notebooks, install dependencies with:
-notebook
-pandas
-matplotlib
-wordcloud
+- notebook
+- pandas
+- matplotlib
+- wordcloud
 
 ## Author
 
