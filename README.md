@@ -1,4 +1,4 @@
-# ECEN 360 Assignments
+# ECEN 360
 
 This repository contains assignments and projects from ECEN 360 (Computational Data Science) at Texas A&M University.
 
