@@ -18,6 +18,14 @@ To run the notebooks, install dependencies with:
 - matplotlib
 - wordcloud
 
+## Project
+
+- **Final Project**: Predictive Analysis of Texas Real Estate Prices  
+  Used machine learning models (Linear Regression, Ridge, and XGBoost) to predict housing prices across Texas ZIP codes.  
+  Conducted extensive feature engineering, trend analysis, and visualizations using Zillow ZHVI data from 2000–2025.
+
+> See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
+
 ## Author
 
 Jimly Bora | [LinkedIn](https://www.linkedin.com/in/jimlybora)
