@@ -2,6 +2,14 @@
 
 This repository contains assignments and my semester project from ECEN 360 (Computational Data Science) at Texas A&M University.
 
+## Project
+
+- **Final Project**: Predictive Analysis of Texas Real Estate Prices  
+  Used machine learning models (Linear Regression, Ridge, and XGBoost) to predict housing prices across Texas ZIP codes.  
+  Conducted extensive feature engineering, trend analysis, and visualizations using Zillow ZHVI data from 2000–2025.
+
+> See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
+
 ## Contents
 
 - **Assignment 1**: Recommending Locations for an Italian Restaurant in Fort Worth  
@@ -17,14 +25,6 @@ To run the notebooks, install dependencies with:
 - pandas
 - matplotlib
 - wordcloud
-
-## Project
-
-- **Final Project**: Predictive Analysis of Texas Real Estate Prices  
-  Used machine learning models (Linear Regression, Ridge, and XGBoost) to predict housing prices across Texas ZIP codes.  
-  Conducted extensive feature engineering, trend analysis, and visualizations using Zillow ZHVI data from 2000–2025.
-
-> See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
 
 ## Author
 
