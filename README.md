@@ -1,6 +1,6 @@
 # ECEN 360
 
-This repository contains assignments and projects from ECEN 360 (Computational Data Science) at Texas A&M University.
+This repository contains assignments and my semester project from ECEN 360 (Computational Data Science) at Texas A&M University.
 
 ## Contents
 
