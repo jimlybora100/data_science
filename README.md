@@ -8,7 +8,7 @@ This repository contains assignments and my semester project from ECEN 360 (Comp
   Used machine learning models (Linear Regression, Ridge, and XGBoost) to predict housing prices across Texas ZIP codes.  
   Conducted extensive feature engineering, trend analysis, and visualizations using Zillow ZHVI data from 2000–2025.
 
-> See the notebook: [`data_science_project.ipynb`](./data_science_project.ipynb)
+> See the notebook: [`ecen360_project.ipynb`](./ecen360_project.ipynb)
 
 ## Contents
 
