@@ -1,4 +1,4 @@
-# ECEN 360
+# Data Science Portfolio
 
 This repository contains assignments and my semester project from ECEN 360 (Computational Data Science) at Texas A&M University.
 
